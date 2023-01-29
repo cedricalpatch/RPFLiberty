@@ -1,6 +1,10 @@
 # RPFLiberty
 Map liberty city free
-Discord pour avoir les correctif et MLO addon 
+
+https://github.com/cedricalpatch/RPFLiberty/blob/main/RPFLiberty.rar
+
+Discord :
+- Avoir les correctif et MLO addon 
 - for have Fix and MLO addon
 
 https://discord.gg/ypkm9d65qd
